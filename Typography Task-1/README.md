@@ -18,7 +18,7 @@ If you are unclear with how to start, you can check out this link:
 1. Skim through the given text once and define the **Hierarchy** i.e., mark Headings/ Sub-headings/ Important points.
 2. Decide the Font/ Type-face you would be using according to the context of the text. You can do font-pairing i.e, use different font for Headings/ Sub-headings but, don't loose the **Consistency**.
 3. Check for margins and spacings. The proper use of white space ensures an excellent user experience and a great readability experience. It helps to balance design elements and better organise content to improve the visual communication experience.
-4. For Submission you would have to provide the link to the doc file in a text file (Named after your github username) and make sure to keep the file in **"Typography Task"** folder only.
+4. For Submission you would have to provide the link to the doc file in a text file (Named after your github username) and make sure to keep the file in **"Typography Task-1"** folder only.
 
 If you are unclear with certain points, you can read this article: [https://designmodo.com/letterform/](https://designmodo.com/letterform/)
 
