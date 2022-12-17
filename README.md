@@ -22,7 +22,7 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 
 | Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
 | ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
-| Typogarphy Task | 17th - 21nd December | Rookie | 10 |
+| Typography Task | 17th - 21nd December | Rookie | 10 |
 | Avatar Design | 20th - 26th December | Skilled | 20 |
 | Logo Design | 20th - 23rd December  | Skilled | 20 |
 | Business Card Design | 24th - 28th December |  Advanced | 30 |
