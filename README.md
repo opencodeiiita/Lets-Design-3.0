@@ -1,7 +1,7 @@
 # Let's Design 3.0 
 </br>
 
-This Repository will consist of tasks related to various aspects of Graphic Designing. The tasks will involve graphic design — **logo, typography, poster, and 3D designing** — and will provide our contributors a chance to demonstrate their aptitude for the field.
+This Repository will consist of tasks related to various aspects of Graphic Designing. The tasks will involve graphic design — **logo, typography, poster, and 3D designing** — and will provide our contributors a chance to demonstrate their aptitude for the field 🚀.
 
 > ***Graphic Design*** is a craft where professionals create visual content to communicate messages. Designers utilise typography and images to fulfil the individual demands of users and concentrate on the logic of showing pieces in interactive designs to maximise the user experience by utilising visual hierarchy and page layout techniques.
 
