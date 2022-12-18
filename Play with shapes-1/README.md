@@ -2,7 +2,7 @@
 
 **OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 19th December 04:00 PM**
 
-In this task you have to use basic shapes like rectangle, square, circle etc. to create an interesting vector who’s png file is attached below. All you need is to copy that cat exactly same
+In this task you have to use basic shapes like *rectangle, square, circle etc.* to create an interesting vector who’s png file is attached below. All you need is to copy that cat exactly same
 
 > 💡 This task should be done in **Adobe Illustrator or Figma**.
 
@@ -16,3 +16,5 @@ In this task you have to use basic shapes like rectangle, square, circle etc. to
 The vector which you are going to copy should look like that.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![Cat Flat Excersiie-01](https://user-images.githubusercontent.com/97426868/208293585-b4dd8533-faaf-425d-a26d-b697ad1e7c44.png)
