@@ -30,6 +30,9 @@ Name of your *illustrator file or txt file* should be your github username
 The Design must be unique. Any kind of plagiarism will not be tolerated. The design should be clean and readable. Just using a new font style wont be considered
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
-  
+
+<img src="https://user-images.githubusercontent.com/97426868/208494344-6285a98c-e5d2-400f-8f35-1e784a6246ec.jpeg"  width="657" height="464">
+<img src="https://user-images.githubusercontent.com/97426868/208494365-158ba5f1-4b08-41f5-89c9-b77901698cff.jpeg"  width="657" height="400">
+
 
 
