@@ -1,6 +1,6 @@
 # Play with shapes-1 
 
-**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 19th December 04:00 PM**
+**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 20th December 04:00 PM**
 
 In this task you have to use basic shapes like *rectangle, square, circle etc.* to create an interesting vector who’s png file is attached below. All you need is to copy that cat exactly same
 
