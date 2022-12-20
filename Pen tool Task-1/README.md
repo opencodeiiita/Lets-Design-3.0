@@ -20,3 +20,5 @@ In this task, you are supposed to copy the given vector in Illustrator or Figma 
 In this task you can only submit one PR once submitted you wont get chance to edit. The vector which you are going to copy should look like the vector given.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![Frame 168](https://user-images.githubusercontent.com/97426868/208735978-9dc8fb6d-6983-42c4-8920-6afea7044a16.png)
