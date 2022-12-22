@@ -21,3 +21,5 @@ Name of your *illustrator file/ text file* should be your github username
 The Design must be unique. Any kind of plagiarism will not be tolerated. The design should be clean and the avatar must look like an avatar with proper features( like eyes, hair, etc). The avatars for male and female shouldn't appear same.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![images](https://user-images.githubusercontent.com/97426868/209167392-73b5e1ad-9633-4a76-9875-d0461edafdfe.png)
