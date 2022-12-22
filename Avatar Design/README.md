@@ -1,4 +1,4 @@
-# Pen tool Task-1 
+# Avatar Design
 
 **OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 26th December 11:59 PM**
 
