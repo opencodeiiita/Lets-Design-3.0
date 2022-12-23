@@ -1,6 +1,6 @@
 # Typography Task-2 
 
-**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 21st December 11:59 PM**
+**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 22nd December 11:59 PM**
 
 After displaying your proficiency with typography in the first task, it's time to see how creative you guys are, therefore we've prepared our second typography task. Here, you have to creatively write your own name in order to demonstrate your creativity and how inventive you are.
 
