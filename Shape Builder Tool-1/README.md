@@ -1,4 +1,4 @@
-# Pen tool Task-1 
+# Shape builder tool Task-1 
 
 **OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 21tst December 11:59 P.M.**
 
@@ -10,7 +10,7 @@ In this task, you are supposed to make the given illustration in Illustrator usi
 
 ## **Submission Guideline:**
 
-- Submit the illustrator file in the "Pen tool Task-1" Folder only.
+- Submit the illustrator file in the "Shape builder tool-1" Folder only.
 - Paste a jpg/png file of your design in the Pull Request.
 
 > This task is for **30 points**.
@@ -21,3 +21,4 @@ In this task you can only submit one PR once submitted you wont get chance to ed
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
 
+![Frame 4](https://user-images.githubusercontent.com/97426868/209436011-ffcecbaf-6efe-4e00-ae69-1822e15d1df6.png)
