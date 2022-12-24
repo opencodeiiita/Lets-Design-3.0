@@ -17,7 +17,7 @@ In this task, you are supposed to make the given illustration in Illustrator usi
 
 ## **MDC (Minimum Design Criteria):**
 
-In this task you can only submit one PR once submitted you wont get chance to edit. The vector which you are going to copy should look like the vector given.
+In this task you can only submit one PR once submitted you wont get chance to edit. The illusration which you are going to copy should look like the illusration given below.
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
 
