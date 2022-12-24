@@ -13,7 +13,7 @@ In this task, you are supposed to make the given illustration in Illustrator usi
 - Submit the illustrator file in the "Shape builder tool-1" Folder only.
 - Paste a jpg/png file of your design in the Pull Request.
 
-> This task is for **30 points**.
+> This task is for **20 points**.
 
 ## **MDC (Minimum Design Criteria):**
 
