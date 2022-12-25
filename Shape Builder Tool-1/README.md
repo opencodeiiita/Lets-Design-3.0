@@ -1,6 +1,6 @@
 # Shape builder tool Task-1 
 
-**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 25th December 11:59 P.M.**
+**OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 26th December 11:59 P.M.**
 
 Now it’s time to learn the **shape builder tool**, one of the most commonly used tools to make logos and geometric graphics.
 
