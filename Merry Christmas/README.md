@@ -18,6 +18,6 @@ Name of your *illustrator file/ text file* should be your github username
 
 ## **MDC (Minimum Design Criteria):**
 
-The Design must be unique. Any kind of plagiarism will not be tolerated. The poster should be minimal and should look like a poster 
+The Design must be unique. Any kind of plagiarism will not be tolerated. The poster should be minimal and should look like a poster, vectors used should be original 
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
