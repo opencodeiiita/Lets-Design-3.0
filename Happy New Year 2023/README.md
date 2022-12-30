@@ -22,4 +22,4 @@ The Design must be unique. Any kind of plagiarism will not be tolerated. The pos
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
 
-> Wishing you'll a very HAPPY NEW YEAR 
+> Wishing you a very HAPPY NEW YEAR 
