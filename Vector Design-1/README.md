@@ -21,3 +21,5 @@ Name of your *illustrator file/ text file* should be your github username
 The Design must be unique. Any kind of plagiarism will not be tolerated. The poster should be minimal and should look like a poster, vectors used should be original
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+
+![People_flying_a_kite_vector_6](https://user-images.githubusercontent.com/97426868/210037058-d4fd21cd-3b90-44c6-b891-4695d713cdda.jpeg)
