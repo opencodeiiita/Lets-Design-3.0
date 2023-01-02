@@ -19,7 +19,7 @@ In this task, you are supposed to make a **Doodle** and submit the Illustrator f
 
 For Submission, you would have to *Upload the illustrator file( if doing in illustrator )* or a *.txt file (with figma link in it)* and make sure to keep the file in the "**Doodle Design”** folder only. You need to add a jpg or png file of your work in the PR. 
 
-Any kind of plagiarism will not be supported. You can take inspiration, but the idea must be unique. 
+Any kind of plagiarism will not be supported. You can take inspiration(a image is added below for inspiration), but the idea must be unique. 
 
 Name of your *illustrator file/ text file* should be your github username
 
@@ -28,3 +28,4 @@ Name of your *illustrator file/ text file* should be your github username
 The design should be appropriate, consistent, and clean. 
 
 For any doubts related to the task or the submission process you can always ping us on discord. We will be happy to help.
+![elements-hand-drawn-doodle-vector_179234-329](https://user-images.githubusercontent.com/97426868/210192128-ba064816-f461-439e-920b-763e9c5bbdf1.png)
