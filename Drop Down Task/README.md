@@ -2,7 +2,7 @@
 
 **OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 10th January 11:59 P.M.**
 
-In this task, you are supposed to make a **Vector of your favourite** in illustrator or Figma and submit the text file(with Figma link) or illustrator file (.ai file).
+In this task, you are supposed to make a **Vector of your favourite cartoon** in illustrator or Figma and submit the text file(with Figma link) or illustrator file (.ai file).
 
 > 💡 This task is can be done in Figma or Adobe Illustrator.
 
