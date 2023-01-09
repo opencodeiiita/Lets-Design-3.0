@@ -6,6 +6,8 @@ In this task, you are supposed to make a **Drop Down Menu** using **prototype** 
 
 > 💡 This task is to be done in Figma. 
 
+> Follow this link for reference: [https://www.youtube.com/watch?v=5YEw7O1KgNQ](https://www.youtube.com/watch?v=5YEw7O1KgNQ)
+
 ## **Submission Guideline:**
 
 - Submit the illustrator file in the "Drop Down Task" Folder only.
