@@ -1,16 +1,14 @@
-# Cartoon Vector Design
+# Drop Down Task
 
 **OPEN TO ALL** **No need to claim this issue** **NO SUBMISSION WILL BE ACCEPTED AFTER 10th January 11:59 P.M.**
 
-In this task, you are supposed to make a **Vector of your favourite cartoon** in illustrator or Figma and submit the text file(with Figma link) or illustrator file (.ai file).
+In this task, you are supposed to make a **Drop Down Menu** using **prototype** and submit the text file(with Figma link).
 
-> 💡 This task is can be done in Figma or Adobe Illustrator.
-
-> Follow this link for reference: [https://www.youtube.com/watch?v=5YEw7O1KgNQ](https://www.youtube.com/watch?v=5YEw7O1KgNQ)
+> 💡 This task is to be done in Figma. 
 
 ## **Submission Guideline:**
 
-- Submit the illustrator file in the "Cartoon Vector Design" Folder only.
+- Submit the illustrator file in the "Drop Down Task" Folder only.
 
 > This task is for 30 points.
 
