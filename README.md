@@ -25,11 +25,10 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 | Typography Task | 17th - 22nd December | Rookie | 10 |
 | Avatar Design | 20th - 26th December | Skilled | 20 |
 | Logo Design | 24th - 26th December  | Skilled | 20 |
+| Poster Design | 24th - 31st December | Advanced | 30 |
 | Business Card Design | 26th - 30th December |  Advanced | 30 |
 | Complex Vector Design | 28th December - 4th January | Expert | 50 |
-| T-Shirt/Hoodie Design | 28th December - 4th January | Expert | 50 |
-| Poster Design | 4th - 8th January | Advanced | 30 |
-| Design a 3D Model using Blender | 8th - 16th January  | Expert | 50 |
+| Prototype in Figma | 9th - 16th January | - | - |
   
 </br>
 
